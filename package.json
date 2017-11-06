@@ -1,0 +1,35 @@
+{
+  "name": "vue_ui",
+  "version": "1.0.0",
+  "description": "vue compnents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynlover/vue_ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ynlover/vue_ui/issues"
+  },
+  "homepage": "https://github.com/ynlover/vue_ui#readme",
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "*",
+    "css-loader": "^0.28.7",
+    "rimraf": "^2.6.2",
+    "vue-loader": "^13.3.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.2",
+    "vue-style-loader":"*",
+    "webpack": "^3.8.1"
+  }
+}
